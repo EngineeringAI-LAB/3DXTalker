@@ -96,10 +96,7 @@ except ImportError:
 from transformers import BeitImageProcessor, BeitForImageClassification
 from PIL import Image
 
-hf_token = "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"  # Replace with your real token
-
 model_id = "Tanneru/Facial-Emotion-Detection-FER-RAFDB-AffectNet-BEIT-Large"
-
 
 
 
