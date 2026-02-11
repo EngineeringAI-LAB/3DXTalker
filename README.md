@@ -2,10 +2,6 @@
  <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a> <a href='https://arxiv.org/abs/2310.00434/'><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2310.00434-red?link=https%3A%2F%2Farxiv.org%2Fabs%2F2310.00434"></a> <a href='https://raineggplant.github.io/DiffPoseTalk/'><img alt="Project Page" src="https://img.shields.io/badge/Project%20Page-blue?logo=github&labelColor=black&link=https%3A%2F%2Fraineggplant.github.io%2FDiffPoseTalk"></a>
 
 3DXTalker: An Integrated Framework for Expressive 3D Talking Avatars
-![teaser](teaser_assets/demo_A.gif)
-![teaser](teaser_assets/demo_B.gif)
-![teaser](teaser_assets/demo_C.gif)
-![teaser](teaser_assets/demo_D.gif)
 ![teaser](teaser_assets/xtalker3D.pdf)
 
 **3DXTalker** generates identity-consistent, expressive 3D talking avatars from a single reference image and speech audio, achieving accurate lip synchronization, expressive emotion control, and natural head-pose dynamics. It achieves expressive facial animation through data-curated identity modeling, audio-rich representations, and spatial dynamics controllability. By introducing frame-wise amplitude and emotional cues beyond standard speech embeddings, 3DXTalker delivers superior lip synchronization and nuanced expression modulation. Built on a flow-matching transformer architecture, it enables natural head-pose motion generation while supporting stylized control, integrating lip synchronization, emotional expression, and head-pose dynamics within a unified framework.
